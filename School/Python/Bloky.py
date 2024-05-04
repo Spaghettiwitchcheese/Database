@@ -1,3 +1,7 @@
+
+#this one calculates how many blocks are currently to be mined
+#TODO translate to English and use int instead of str
+
 pocet = [input("x "), input("y "), input("z "), input("diamond ")]
 celkem = int(pocet[0]) * int(pocet[1]) * int(pocet[2])
 

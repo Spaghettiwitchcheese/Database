@@ -1,3 +1,8 @@
+
+
+
+#this one takes the text from a file and encrypts it with a caesar cipher
+#it writes the encrypted text to a new file
 def cesar_cypher(salat, key):
     result = ""
     for char in salat:
