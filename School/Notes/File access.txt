@@ -1,0 +1,24 @@
+alright let me start. how does python acess txt files it takes them line by like so basicly it takes them like this
+
+
+what
+are we 
+
+
+
+the result 
+what 
+are we 
+basicly how i typed it but the problem is that ts bad for item storage 
+
+
+
+things inside it are treated as just text even spaces so its pain to use TXT as any type of value storage 
+its only good at inputing text
+
+in simple terms in order to use the things inside the TXT you need to 
+fist load the first line
+then take the first line and take it apart 
+from there you need to conver any numerical value from str to int or float and any type of bool needs to be set up correcly
+
+Alright instead of this lets look at different types
